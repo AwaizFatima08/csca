@@ -4,8 +4,8 @@ import 'package:csca_prep/ui/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-class NleApp extends ConsumerWidget {
-  const NleApp({super.key});
+class CscaApp extends ConsumerWidget {
+  const CscaApp({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) => MaterialApp.router(

@@ -10,7 +10,7 @@ Play upload). Launcher name "CSCA Prep". Built on the NLE/NTS engine plus the GR
 - Code: `/mnt/storage/projects/csca` · GitHub `AwaizFatima08/csca` (PUBLIC repo: no secrets)
 - Local backup: `/mnt/storage/project_backups/csca_backup` · Google Drive: https://drive.google.com/drive/folders/1fdWpK1grbU1DZ325AME-SdBaMphdiR9C
 - Backups: `bash scripts/backup.sh` (all three layers)
-- Site: https://csca.homilabs.org (Hostinger `public_html/csca`, Git deployment of the `deploy` branch), source in `website/`, `bash scripts/publish-site.sh`
+- Site: https://csca.homilabs.org (Hostinger `public_html/csca`, an SSH git checkout of the `deploy` branch), source in `website/`, `bash scripts/publish-site.sh`
 
 ## Exam format (csca.cn, checked 4 Nov 2026; details in docs/research/csca-research.md)
 Maths, Physics, Chemistry: 48 single-answer MCQs, 60 min, 0-100, no calculator, English or Chinese. Professional

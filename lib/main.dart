@@ -21,7 +21,7 @@ void main() {
   runApp(
     ProviderScope(
       overrides: [adServiceProvider.overrideWithValue(ads)],
-      child: const NleApp(),
+      child: const CscaApp(),
     ),
   );
   unawaited(ads.start());

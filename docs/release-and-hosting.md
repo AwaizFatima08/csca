@@ -4,11 +4,12 @@
 - Package `com.homilabs.csca_prep` (locked after the first Play upload). Version 1.0.0 (versionCode 1).
 - Build: `jobq run --name csca-release-aab -- flutter build appbundle --release`, then `./gradlew --stop` in `android/`.
 - Before every release: `bash scripts/check-release-ad-ids.sh`, `python3 tool/validate.py`, `flutter test`, and re-check the dated facts in `content/guide_src.py` against csca.cn.
-- Signing: `android/key.properties` → `.secrets/csca-upload.keystore`. `.secrets/` goes to the local and Drive backups, never GitHub.
+- Signing: upload key created 4 Nov 2026: `.secrets/csca-upload.keystore` (alias `csca-upload`, RSA 2048, valid 10,000 days), passwords in `.secrets/csca-upload-keystore-credentials.txt`, read by `android/key.properties`. Certificate SHA-256 `7F:00:42:4A:D5:19:1C:8E:1B:81:5A:9D:EF:0D:07:95:50:5C:EF:31:A1:85:A2:5A:86:E4:50:FC:6E:33:AA:7B`. `.secrets/` goes to the local and Drive backups, never GitHub. Losing it means asking Play support for an upload-key reset.
+- Release 1.0.0+1 built 4 Nov 2026: `releases/1.0.0+1/csca-prep-1.0.0+1.aab` (upload this to Play) and `.apk` (sideload test). Mock flow, results, review and ads smoke-tested on the emulator (debug build); Practice, notes and Guide covered by widget tests.
 
 ## Website: https://csca.homilabs.org
-- Hostinger: subdomain `csca.homilabs.org` (folder `public_html/csca`, created 4 Nov 2026). Git deployment from `https://github.com/AwaizFatima08/csca`, branch `deploy`.
-- Change `website/`, commit, then `bash scripts/publish-site.sh`. Flush the CDN cache in hPanel if pages look stale.
+- Hostinger: subdomain `csca.homilabs.org` (folder `public_html/csca`, created 4 Nov 2026). The folder is a git checkout of this repo's `deploy` branch (cloned over SSH, as for gre/nts; hPanel's one Git slot for homilabs.org belongs to the games site).
+- Change `website/`, commit, then `bash scripts/publish-site.sh` (pushes `deploy`, then pulls it on the server over SSH). Flush the CDN cache in hPanel if pages look stale.
 - Pages: landing, `/privacy.html`, `/terms.html`, `/app-ads.txt`.
 - After Play launch: replace "Coming soon on Google Play" with the Play link, and add the app to homilabs.org.
 
@@ -69,4 +70,3 @@ Prep Simulator for CSCA is independent practice material by HomiLabs. It is not 
 - Homi reviews the guide (dated facts), a sample of questions per subject and `docs/review-flags.md`.
 - Trademark: "CSCA" is used descriptively, with the not-affiliated notice in the About screen, listing and website.
 - Phone screenshots (2-8) for the listing.
-- Create the upload keystore if not yet made (see Build).
