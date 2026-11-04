@@ -16,6 +16,7 @@
 ## AdMob (account homilabs.smc@gmail.com)
 - Created 4 Nov 2026: app "Prep Simulator for CSCA", App ID `ca-app-pub-2087846699268567~6011252769`; units banner `csca_home_banner` and interstitial `csca_results_interstitial` (ids in `config/admob.json`). Debug builds use Google test units.
 - "Limited ad serving" until the Play listing is live. After it is live: AdMob → Apps → this app → Add store (com.homilabs.csca_prep). `app-ads.txt` is already in `website/`.
+- Privacy & messaging: European regulations messages are per app, not account-wide. "Prep Simulator for CSCA consent" (this app only, privacy URL https://csca.homilabs.org/privacy.html, "Do not consent" on for all countries) published 4 Nov 2026 for the app's Google UMP request.
 
 ## Play Console
 | Item | Value |
