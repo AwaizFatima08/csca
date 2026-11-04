@@ -1,0 +1,364 @@
+{
+ "articles": [
+  {
+   "id": "about",
+   "group": "Start here",
+   "title": "What is the CSCA?",
+   "lines": [
+    "The CSCA (China Scholastic Competency Assessment, 来华留学本科入学学业水平测试) is a standardised test for international students applying to bachelor's programmes at Chinese universities. It is run by the China Scholarship Council (CSC); test delivery is handled by a CSC company. The official website is csca.cn.",
+    "## Who needs it",
+    "- From the 2026/27 intake, every undergraduate applicant to a Chinese Government Scholarship (CGS) university must sit the CSCA and send scores with the application.",
+    "- Many universities (for example BLCU and NWPU) now require it from all international undergraduate applicants, self-funded students included.",
+    "- It applies to bachelor's programmes only, not master's, PhD or non-degree programmes.",
+    "- Only non-Chinese citizens can register. There is no age limit; candidates under 18 need a parent's consent.",
+    "## How universities use the score",
+    "Scores are an important reference for admission and are required for the scholarship evaluation, but they are not the only criterion. There is no national pass mark: each university sets its own requirement and can also see your global percentile.",
+    "! Check each target university's admission page for the subjects and the test language it wants. Requirements differ by university and programme."
+   ]
+  },
+  {
+   "id": "subjects",
+   "group": "Start here",
+   "title": "Which subjects do you need?",
+   "lines": [
+    "There are five papers. You choose which to sit, depending on your programme.",
+    "- Mathematics: compulsory for every programme, including humanities and English-taught programmes.",
+    "- Physics and Chemistry: science, engineering, agriculture and medicine applicants must take at least one of them. Some programmes ask for a specific one (engineering usually Physics, medicine and biotechnology usually Chemistry).",
+    "- Professional Chinese (Humanities or STEM version): only for Chinese-taught programmes. English-taught programmes do not need it.",
+    "## Test language",
+    "Mathematics, Physics and Chemistry can each be taken in English or Chinese; you choose per subject. Take the language your programme requires. Professional Chinese is in Chinese only.",
+    "## Typical combinations",
+    "- MBBS or medicine (English-taught): Mathematics + Chemistry, often Physics as well.",
+    "- Engineering and computer science: Mathematics + Physics.",
+    "- Business, economics and humanities (English-taught): Mathematics only.",
+    "- Chinese-taught programmes: add Professional Chinese. Chinese Language majors may be exempt from it with HSK 4, but still take Mathematics.",
+    "! Taking two or more subjects costs the same as two (see Registration), so many applicants sit Mathematics, Physics and Chemistry together to keep more programmes open.",
+    "This app covers Mathematics, Physics and Chemistry in English."
+   ]
+  },
+  {
+   "id": "pattern",
+   "group": "Start here",
+   "title": "Paper pattern and scoring",
+   "lines": [
+    "## Mathematics, Physics, Chemistry",
+    "- 48 single-answer multiple-choice questions in 60 minutes: about 75 seconds per question.",
+    "- Scored 0 to 100 per subject.",
+    "- No calculator. At home only a small whiteboard is allowed for working.",
+    "- Taken on a computer with a mouse. You can review and change answers until time runs out; the paper submits automatically at the end and you cannot finish early.",
+    "## Professional Chinese",
+    "- 80 single-answer questions in 90 minutes, scored 0 to 100, in six question types: characters, cloze, word choice, sentence ordering, sentence completion and reading.",
+    "## What is not published",
+    "CSC has not published the number of options per question, whether there is negative marking, or how raw marks convert to the 0-100 scale. This app uses four options (A-D) and estimates your score as the percentage of questions right.",
+    "! Since no penalty for wrong answers has been announced, never leave a question blank: eliminate what you can and guess."
+   ]
+  },
+  {
+   "id": "syllabus",
+   "group": "Start here",
+   "title": "Syllabus at a glance",
+   "lines": [
+    "The level is Chinese senior high school (roughly grades 10-12, similar to A-level/FSc), aimed at readiness for first-year university. Below is our summary in our own words; download the official syllabi from csca.cn under Test Prep.",
+    "## Mathematics",
+    "- Sets, logic and inequalities",
+    "- Functions: properties, power, exponential and logarithmic functions",
+    "- Trigonometry, sequences, and an introduction to derivatives",
+    "- Analytic geometry (lines, circles, ellipse, hyperbola, parabola), vectors and complex numbers, solid geometry",
+    "- Probability and statistics, including the normal distribution",
+    "## Physics",
+    "- Mechanics: kinematics, Newton's laws, momentum, energy, circular motion and gravitation, oscillations and waves",
+    "- Electromagnetism: electrostatics, DC circuits, magnetic fields, electromagnetic induction",
+    "- Thermal physics, optics and modern physics",
+    "## Chemistry",
+    "- Basic concepts and mole calculations",
+    "- Inorganic and organic substances, redox and ionic reactions",
+    "- Atomic structure and the periodic table, bonding, rates and equilibrium, electrolyte solutions",
+    "- Laboratory work and industrial chemistry",
+    "Each topic in the Practice tab has study notes and practice questions."
+   ]
+  },
+  {
+   "id": "dates",
+   "group": "Registration and test day",
+   "title": "Test sessions 2026-27",
+   "lines": [
+    "CSC published this timetable for November 2026 to June 2027 (Beijing time, UTC+8). Each session runs over two days: day 1 is Professional Chinese then Mathematics, day 2 is Physics then Chemistry.",
+    "- November 2026: 14-15 Nov (registration has closed)",
+    "- December 2026: 19-20 Dec (morning papers, from 08:00 Beijing time)",
+    "- January 2027: 23-24 Jan (afternoon papers, from 14:00)",
+    "- March 2027: 13-14 Mar (afternoon)",
+    "- April 2027: 24-25 Apr (afternoon)",
+    "- June 2027: 26-27 Jun (morning)",
+    "## Registration windows are short",
+    "The November 2026 window was open for only seven days. Watch csca.cn and register as soon as a window opens.",
+    "## Pick a session that fits your deadlines",
+    "Results take up to 10 working days. Universities and scholarship deadlines often fall between February and May, so plan to sit in December, January or March for a September intake, with a later session as a backup retake.",
+    "! Convert Beijing time to your local time. Pakistan is 3 hours behind Beijing: a 08:00 Beijing paper starts at 05:00 in Pakistan.",
+    "Dates can change. Always confirm on csca.cn and your admission ticket."
+   ]
+  },
+  {
+   "id": "register",
+   "group": "Registration and test day",
+   "title": "How to register",
+   "lines": [
+    "- 1. Create an account on csca.cn with a personal email you will keep (one email per candidate). Agents are not authorised to register for you.",
+    "- 2. Enter your details exactly as they appear in your passport.",
+    "- 3. Upload a recent photo: 33 × 48 mm, JPG of 40-200 KB, white background, taken within 6 months, no filters or edits. It is used for face recognition on test day.",
+    "- 4. Choose the test mode (home-based or test centre), the session, your subjects and the language of each subject.",
+    "- 5. Pay online. You receive a confirmation email.",
+    "- 6. Download and print your admission ticket when it is released, a few days before the test.",
+    "## ID",
+    "Only an original, valid, booklet-type ordinary passport is accepted. It must stay valid until your scores are released. National ID cards, copies and diplomatic passports are refused.",
+    "## Fees",
+    "- RMB 450 for one subject, RMB 700 for two or more subjects in a session.",
+    "- Pay by Visa or Mastercard (international payments enabled), WeChat Pay or Alipay.",
+    "## Changes and refunds",
+    "- No changes of subject, date, mode or place after registering.",
+    "- You can cancel the whole order before the admission ticket is generated and get a refund minus charges. Partial refunds are not possible.",
+    "- After that, refunds only for force majeure, with evidence, within 7 business days (support@csca.cn).",
+    "! Check every letter of your name and your passport number before paying. Details cannot be corrected once the ticket is generated."
+   ]
+  },
+  {
+   "id": "home",
+   "group": "Registration and test day",
+   "title": "Home-based test: equipment and room",
+   "lines": [
+    "Most international candidates sit the remote-proctored home test. Prepare your setup at least a week early.",
+    "## Computer",
+    "- A Windows 10 or 11 PC (64-bit). macOS is not supported. Physical machine only: no virtual machines, remote desktop or cloud PCs.",
+    "- One monitor only, webcam above the screen (720p minimum), at least 4 GB RAM, screen at least 1366 × 768. Keep it plugged in.",
+    "- Switch off virtualisation features if the check asks (Hyper-V, WSL, Windows Sandbox).",
+    "## Second camera",
+    "A phone or tablet on a stand about 45° behind you to one side, a little above shoulder height, showing your upper body, hands and screen. Plug it in and turn on Do Not Disturb.",
+    "## Internet",
+    "At least 20 Mbps, wired if possible, with a mobile hotspot as backup. VPNs and proxies are banned.",
+    "## Room",
+    "- A private, quiet, closed, well-lit room with nobody else in it. Cafés, libraries, dorms and shared labs are not allowed.",
+    "- A normal desk and chair (not a bed or sofa), ideally in a corner facing the wall. Clear the desk.",
+    "- Allowed: a small whiteboard (or a blank sheet in a clear sleeve) with an erasable marker.",
+    "- Banned: phones within reach, smartwatches, calculators, books, notes, pens and paper, earbuds.",
+    "## Two compulsory checks",
+    "Before test day you must pass the equipment and software check and complete at least one proctored mock test. If you skip either and then cannot test, you get no refund.",
+    "! Download the newest test client for each session and delete old versions. Do not install updates or new software in the last two days before the test."
+   ]
+  },
+  {
+   "id": "examday",
+   "group": "Registration and test day",
+   "title": "Test-day check-in and rules",
+   "lines": [
+    "## Home-based test",
+    "- Login opens 60 minutes before the paper. Log in no later than 30 minutes before; late candidates may lose the test.",
+    "- Check-in: system check, log in with your ticket number, face recognition, link the second camera by QR code, show your passport, a 360° room scan and a blank whiteboard, then accept the rules.",
+    "- You may not leave your seat during a paper. Each subject is a separate sitting with a break between papers.",
+    "- At the end, wipe the whiteboard on camera. Keep the test client until your scores are out.",
+    "## Test centre",
+    "- Arrive 40 minutes early with your original passport and the printed admission ticket.",
+    "- The centre provides scratch paper, which you return at the end. Calculators are not allowed.",
+    "## Misconduct",
+    "Penalties range from cancelling a subject score to a ban of two years or more and informing universities. Do not risk it.",
+    "! Treat the proctored mock test as a dress rehearsal: same room, same time of day, same equipment."
+   ]
+  },
+  {
+   "id": "scores",
+   "group": "Registration and test day",
+   "title": "Scores, validity and retakes",
+   "lines": [
+    "- Results are released within 10 working days (CSC changed this from 7 days in October 2026).",
+    "- Each subject is scored out of 100. Your report also shows your percentile, which universities can verify online.",
+    "- Scores are valid for 2 years from the test date.",
+    "- You can retake as often as you like and submit your best valid score, subject to each university's rules.",
+    "- To apply, download your electronic score report and upload it to each university or scholarship application yourself.",
+    "## What score do you need?",
+    "There is no national pass mark. Some universities have reported a minimum of about 50 out of 100 per subject; competitive universities and scholarships expect much more. Aim for 70+ to be safe, and check each university's notice.",
+    "! A status of Pending means your result is under review (usually 4-6 weeks); Invalid or Absent scores cannot be used."
+   ]
+  },
+  {
+   "id": "plan",
+   "group": "Tips and tricks",
+   "title": "A 12-week study plan",
+   "lines": [
+    "Adjust to your start date: if you have less time, shorten weeks 1-8 but keep the mock phase.",
+    "## Weeks 1-4: foundation",
+    "- Work through every topic's study notes in the order of the Practice tab.",
+    "- Do each topic's practice set and keep an error log: the question, your mistake, the correct idea.",
+    "- Learn the formula sheets until you can write them from memory.",
+    "## Weeks 5-8: strengthen",
+    "- Repeat practice in your weakest topics (the Progress tab lists them).",
+    "- Start timed work: 10 questions in 12 minutes.",
+    "- One full mock per subject each week, then review every wrong and guessed answer.",
+    "## Weeks 9-11: exam mode",
+    "- Two or three full mocks per subject per week, at the same time of day as your session.",
+    "- Use only a small whiteboard or one sheet for working, never a calculator.",
+    "## Week 12: final week",
+    "- One last full mock per subject early in the week, then light revision of formulas and your error log.",
+    "- Finish the system check and proctored mock, prepare your room and passport, sleep well."
+   ]
+  },
+  {
+   "id": "mcq",
+   "group": "Tips and tricks",
+   "title": "Answering MCQs without a calculator",
+   "lines": [
+    "- Read the last line first so you know exactly what is asked (the value of x, or of 2x?).",
+    "- Estimate before you calculate. If options are far apart, a rough estimate picks the answer.",
+    "- Work backwards: substitute the options into the equation, starting with a middle value.",
+    "- Plug in simple numbers (0, 1, 2, −1) to test a general formula or an identity.",
+    "- Check units and dimensions in physics; often only one option has the right unit or order of magnitude.",
+    "- Eliminate: limits (x → 0, x → ∞), special cases, symmetry and signs often kill two options.",
+    "- In chemistry, check that an equation balances atoms and charge before trusting it.",
+    "! The CSCA uses clean numbers. If your answer is an ugly decimal, re-check your working."
+   ]
+  },
+  {
+   "id": "time",
+   "group": "Tips and tricks",
+   "title": "Time management: 75 seconds a question",
+   "lines": [
+    "- Do a first pass in about 40 minutes: answer everything you can, flag anything taking more than 2 minutes.",
+    "- Use the next 15 minutes for flagged questions.",
+    "- Keep the last 5 minutes to make sure every question has an answer.",
+    "- Easy questions are worth the same as hard ones; never sacrifice three easy ones for one hard one.",
+    "! Glance at the timer at questions 12, 24 and 36: you want about 45, 30 and 15 minutes left."
+   ]
+  },
+  {
+   "id": "tricks",
+   "group": "Tips and tricks",
+   "title": "Mental maths tricks",
+   "lines": [
+    "- Squares to learn: 11² to 25², and 2¹ to 2¹⁰. Know √2 ≈ 1.414, √3 ≈ 1.732, √5 ≈ 2.236, π ≈ 3.14.",
+    "- Special angles: sin 30° = 1/2, sin 45° = √2/2, sin 60° = √3/2, tan 30° = √3/3, tan 60° = √3.",
+    "- Logs: lg 2 ≈ 0.301, lg 3 ≈ 0.477; log_a(xy) = log_a x + log_a y; a^(log_a x) = x.",
+    "- Multiply near 100: 97 × 96 = (100 − 3)(100 − 4) = 10000 − 700 + 12 = 9312.",
+    "- Difference of squares: 49 × 51 = 50² − 1 = 2499.",
+    "- Physics: use g = 10 m/s² unless told otherwise; keep numbers in powers of ten (3 × 10⁸ m/s).",
+    "- Chemistry: memorise molar masses of common substances (H₂O 18, CO₂ 44, NaCl 58.5, CaCO₃ 100, H₂SO₄ 98, NaOH 40).",
+    "! Write powers of ten separately from the digits; most slips in big calculations are misplaced zeros."
+   ]
+  },
+  {
+   "id": "pitfalls",
+   "group": "Tips and tricks",
+   "title": "Common pitfalls",
+   "lines": [
+    "- Registering with a name that does not match the passport exactly.",
+    "- Missing the short registration window.",
+    "- Taking a subject in the wrong language for the programme.",
+    "- Using a Mac or a VPN for the home test, or skipping the system check and proctored mock.",
+    "- Logging in late on test day.",
+    "- Practising with a calculator and being slow on the day.",
+    "- In maths: forgetting domain restrictions (log of a positive number, denominators not zero) and the boundary of inequalities.",
+    "- In physics: mixing units (cm with m, g with kg), sign of directions, and using diameter as radius.",
+    "- In chemistry: unbalanced equations, forgetting state symbols in gas calculations, and confusing oxidising and reducing agents."
+   ]
+  },
+  {
+   "id": "app",
+   "group": "Tips and tricks",
+   "title": "How to use this app",
+   "lines": [
+    "- Mocks: 20 full papers per subject, timed like the real test. Results show your estimated score, weak topics and every explanation.",
+    "- Practice: study notes for every topic, then practice questions with instant answers. Practice questions never appear in the mocks.",
+    "- Progress: your mock history and weakest topics.",
+    "- Everything works offline and your results stay on your phone.",
+    "! Take the first mock in each subject early as a diagnostic, before you study. It shows where to start."
+   ]
+  },
+  {
+   "id": "formulas-math",
+   "group": "Formula sheets",
+   "title": "Mathematics formula sheet",
+   "lines": [
+    "## Algebra and functions",
+    "- Quadratic roots: x = (−b ± √(b² − 4ac))/(2a); sum of roots −b/a, product c/a; discriminant Δ = b² − 4ac.",
+    "- Exponents: aᵐ·aⁿ = aᵐ⁺ⁿ, (aᵐ)ⁿ = aᵐⁿ, a⁰ = 1, a⁻ⁿ = 1/aⁿ.",
+    "- Logs: log_a(MN) = log_a M + log_a N, log_a(Mⁿ) = n log_a M, change of base log_a b = log_c b / log_c a.",
+    "- AM-GM: for a, b > 0, (a + b)/2 ≥ √(ab), equal when a = b.",
+    "## Trigonometry",
+    "- sin²x + cos²x = 1, tan x = sin x/cos x.",
+    "- sin(A ± B) = sin A cos B ± cos A sin B; cos(A ± B) = cos A cos B ∓ sin A sin B.",
+    "- sin 2A = 2 sin A cos A; cos 2A = cos²A − sin²A = 1 − 2sin²A = 2cos²A − 1.",
+    "- Sine rule a/sin A = b/sin B = c/sin C = 2R; cosine rule a² = b² + c² − 2bc cos A; area = ½ab sin C.",
+    "- y = A sin(ωx + φ) has period 2π/ω and amplitude |A|.",
+    "## Sequences",
+    "- Arithmetic: aₙ = a₁ + (n − 1)d, Sₙ = n(a₁ + aₙ)/2.",
+    "- Geometric: aₙ = a₁qⁿ⁻¹, Sₙ = a₁(1 − qⁿ)/(1 − q) for q ≠ 1, infinite sum a₁/(1 − q) for |q| < 1.",
+    "## Derivatives",
+    "- (xⁿ)′ = nxⁿ⁻¹, (sin x)′ = cos x, (cos x)′ = −sin x, (eˣ)′ = eˣ, (ln x)′ = 1/x.",
+    "- (uv)′ = u′v + uv′, (u/v)′ = (u′v − uv′)/v²; tangent at x₀: y − f(x₀) = f′(x₀)(x − x₀).",
+    "## Analytic geometry",
+    "- Slope k = (y₂ − y₁)/(x₂ − x₁); perpendicular lines k₁k₂ = −1; distance from (x₀, y₀) to Ax + By + C = 0 is |Ax₀ + By₀ + C|/√(A² + B²).",
+    "- Circle (x − a)² + (y − b)² = r².",
+    "- Ellipse x²/a² + y²/b² = 1 (a > b > 0): c² = a² − b², e = c/a.",
+    "- Hyperbola x²/a² − y²/b² = 1: c² = a² + b², e = c/a, asymptotes y = ±(b/a)x.",
+    "- Parabola y² = 2px: focus (p/2, 0), directrix x = −p/2.",
+    "## Vectors, complex numbers, solids, statistics",
+    "- a·b = |a||b|cos θ = x₁x₂ + y₁y₂; perpendicular when a·b = 0.",
+    "- i² = −1; |a + bi| = √(a² + b²); conjugate of a + bi is a − bi.",
+    "- Sphere V = (4/3)πr³, S = 4πr²; cone V = (1/3)πr²h; pyramid V = (1/3)Sh; cylinder V = πr²h.",
+    "- Variance s² = (1/n)Σ(xᵢ − x̄)²; C(n, r) = n!/(r!(n − r)!)."
+   ]
+  },
+  {
+   "id": "formulas-physics",
+   "group": "Formula sheets",
+   "title": "Physics formula sheet",
+   "lines": [
+    "## Mechanics",
+    "- v = u + at, s = ut + ½at², v² = u² + 2as, s = (u + v)t/2.",
+    "- F = ma, W = mg, f = μN, Hooke's law F = kx.",
+    "- p = mv, impulse FΔt = Δp; momentum is conserved when no external force acts.",
+    "- W = Fs cos θ, P = W/t = Fv, Ek = ½mv², Ep = mgh, spring energy ½kx².",
+    "- Circular motion: v = ωr, a = v²/r = ω²r, T = 2π/ω.",
+    "- Gravitation: F = GMm/r²; orbit GMm/r² = mv²/r gives v = √(GM/r); g = GM/R².",
+    "- SHM: pendulum T = 2π√(L/g), spring T = 2π√(m/k); waves v = fλ.",
+    "## Electricity and magnetism",
+    "- Coulomb F = kq₁q₂/r², E = F/q, U = Ed in a uniform field, W = qU.",
+    "- Capacitance C = Q/U.",
+    "- I = Q/t, U = IR, R = ρL/S, P = UI = I²R = U²/R, E = U + Ir (internal resistance r).",
+    "- Series R = R₁ + R₂; parallel 1/R = 1/R₁ + 1/R₂.",
+    "- F = BIL, F = qvB, radius in a field r = mv/(qB), period T = 2πm/(qB).",
+    "- Flux Φ = BS, EMF E = nΔΦ/Δt, moving rod E = BLv; transformer U₁/U₂ = n₁/n₂; rms = peak/√2.",
+    "## Heat, optics, modern",
+    "- pV = nRT; Q = cmΔT; first law ΔU = Q + W (W is work done on the gas).",
+    "- n = sin i/sin r = c/v; critical angle sin C = 1/n.",
+    "- Double slit fringe spacing Δx = Lλ/d.",
+    "- Photon E = hν = hc/λ; photoelectric Ek max = hν − W₀.",
+    "- E = mc²; after n half-lives, the amount left is (1/2)ⁿ of the original."
+   ]
+  },
+  {
+   "id": "formulas-chemistry",
+   "group": "Formula sheets",
+   "title": "Chemistry formula sheet",
+   "lines": [
+    "## Amount of substance",
+    "- n = m/M = N/N_A = V/V_m (V_m = 22.4 L/mol at STP), N_A ≈ 6.02 × 10²³ mol⁻¹.",
+    "- c = n/V; dilution c₁V₁ = c₂V₂; mass fraction = mass of solute/mass of solution.",
+    "- pV = nRT.",
+    "## Acids and bases",
+    "- pH = −lg[H⁺]; at 25 °C, Kw = [H⁺][OH⁻] = 1 × 10⁻¹⁴, so pH + pOH = 14.",
+    "- Strong acids: HCl, HNO₃, H₂SO₄; strong bases: NaOH, KOH, Ba(OH)₂.",
+    "## Equilibrium",
+    "- For aA + bB ⇌ cC + dD, K = [C]ᶜ[D]ᵈ/([A]ᵃ[B]ᵇ) (pure solids and liquids excluded).",
+    "- Le Chatelier: the system shifts to oppose the change.",
+    "## Redox",
+    "- Oxidation is loss of electrons (oxidation number goes up); reduction is gain (goes down).",
+    "- The oxidising agent is reduced; the reducing agent is oxidised. Electrons lost = electrons gained.",
+    "## Ion tests",
+    "- Cl⁻: white precipitate with AgNO₃, insoluble in dilute HNO₃.",
+    "- SO₄²⁻: add dilute HCl first, then BaCl₂ gives a white precipitate.",
+    "- CO₃²⁻: acid gives a gas that turns limewater milky.",
+    "- NH₄⁺: warm with NaOH; the gas turns damp red litmus blue.",
+    "- Fe³⁺: KSCN gives blood-red; Fe²⁺: NaOH gives a white precipitate turning grey-green then red-brown.",
+    "## Useful molar masses (g/mol)",
+    "- H 1, C 12, N 14, O 16, Na 23, Mg 24, Al 27, S 32, Cl 35.5, K 39, Ca 40, Fe 56, Cu 64."
+   ]
+  }
+ ]
+}

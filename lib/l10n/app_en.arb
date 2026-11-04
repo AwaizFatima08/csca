@@ -1,0 +1,212 @@
+{
+  "@@locale": "en",
+  "appTitle": "Prep Simulator for CSCA",
+  "loadError": "Could not load this. Please restart the app. ({code})",
+  "@loadError": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "tabTests": "Mocks",
+  "tabPractice": "Practice",
+  "tabGuide": "Guide & tips",
+  "tabProgress": "Progress",
+  "about": "About",
+  "testsIntro": "20 full-length mocks, spread across the whole syllabus. Every answer is explained after you submit.",
+  "testNumber": "Mock {number}",
+  "@testNumber": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "bestScore": "Best {percent}%",
+  "@bestScore": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "inProgress": "In progress",
+  "notStarted": "Not taken",
+  "sectionCount": "{count} questions",
+  "@sectionCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "minutesLabel": "{minutes} minutes",
+  "@minutesLabel": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "useEthics": "I will sit Ethics instead of Islamic Studies",
+  "useEthicsHelp": "Non-Muslim candidates are usually offered Ethics. Check your test notice.",
+  "startTest": "Start mock",
+  "resumeTest": "Resume mock",
+  "restartTest": "Start again",
+  "paperRules": "Timed like the real CSCA paper: 48 single-answer questions in 60 minutes, about 75 seconds each. No calculator: use scrap paper only, as the exam allows a whiteboard. Answer every question (no negative marking has been announced). You can move between questions, flag them and change answers. The timer pauses if you leave. Scores and explanations appear when you submit.",
+  "unofficialNote": "Independent practice paper. The China Scholarship Council (CSC) sets the real CSCA papers, timing and scoring, so always follow csca.cn and your admission ticket.",
+  "previousAttempts": "Previous attempts",
+  "questionOf": "Question {number} of {total}",
+  "@questionOf": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "previous": "Previous",
+  "next": "Next",
+  "flag": "Flag",
+  "unflag": "Unflag",
+  "questions": "Questions",
+  "clearAnswer": "Clear answer",
+  "submit": "Submit paper",
+  "submitTitle": "Submit this paper?",
+  "submitBody": "Answered {answered} of {total}. Flagged {flagged}. You cannot change answers after submitting.",
+  "@submitBody": {
+    "placeholders": {
+      "answered": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "flagged": {
+        "type": "int"
+      }
+    }
+  },
+  "keepWorking": "Keep working",
+  "leaveTitle": "Leave this paper?",
+  "leaveBody": "Your answers are saved and the timer pauses. You can resume from the paper page.",
+  "leave": "Leave",
+  "stay": "Stay",
+  "readPassage": "Show passage",
+  "hidePassage": "Hide passage",
+  "timeLeft": "Time left",
+  "results": "Your result",
+  "scoreOutOf": "{correct} / {total}",
+  "@scoreOutOf": {
+    "placeholders": {
+      "correct": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "percentLabel": "{percent}%",
+  "@percentLabel": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "scoreNote": "Answered {answered}, skipped {skipped}. A practice estimate assuming every question carries equal marks, not an official CSCA score.",
+  "@scoreNote": {
+    "placeholders": {
+      "answered": {
+        "type": "int"
+      },
+      "skipped": {
+        "type": "int"
+      }
+    }
+  },
+  "bySection": "By subject",
+  "weakTopics": "Topics to work on",
+  "reviewAnswers": "Review answers and explanations",
+  "backHome": "Back to mocks",
+  "filterAll": "All",
+  "filterWrong": "Wrong",
+  "filterSkipped": "Skipped",
+  "filterEmpty": "Nothing here.",
+  "yourAnswer": "Your answer",
+  "correctAnswer": "Correct answer",
+  "notAnswered": "Not answered",
+  "explanation": "Explanation",
+  "practiceIntro": "Every topic of the CSCA Mathematics, Physics and Chemistry syllabus, each with study notes and its own practice questions (never used in the mocks). Answers and explanations show as you go.",
+  "practiceTally": "{correct} of {total} right",
+  "@practiceTally": {
+    "placeholders": {
+      "correct": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "practiceEmpty": "Questions for this topic are on the way.",
+  "checkAnswer": "Check",
+  "finish": "Finish",
+  "practiceAgain": "Practise again",
+  "practiceDone": "Practice finished",
+  "guideLoading": "Guidance",
+  "progressEmpty": "Finish a mock or a practice set to see your progress here.",
+  "testsTaken": "Mocks taken",
+  "averageScore": "Average",
+  "bestOverall": "Best",
+  "history": "Mock history",
+  "topicMastery": "Weakest topics",
+  "deleteAttempt": "Delete",
+  "aboutBody": "Prep Simulator for CSCA is an independent practice app by HomiLabs for international students preparing for the China Scholastic Competency Assessment (CSCA), the undergraduate admission test for Chinese universities. It is not affiliated with, endorsed by or connected to the China Scholarship Council (CSC), csca.cn or any university. All questions, notes and explanations are original practice material written for this app, not real or recalled papers, and scores are practice estimates only. Always check csca.cn for official dates, fees and rules.",
+  "privacy": "Privacy policy",
+  "privacyChoices": "Privacy choices",
+  "terms": "Terms of use",
+  "website": "Website",
+  "contact": "Contact: homilabs.smc@gmail.com",
+  "version": "Version 1.0.0",
+  "reviewTitle": "Review answers",
+  "passLine": "Reference line: 50 / 100. There is no national pass mark; some universities report 50 per subject.",
+  "passAbove": "At or above 50",
+  "passBelow": "Below 50: keep practising",
+  "byGroup": "Clinical and basic sciences",
+  "groupClinical": "Clinical sciences",
+  "groupBasic": "Applied basic sciences",
+  "lesson": "Study notes",
+  "lessonHelp": "Key ideas, worked examples and traps",
+  "practiceSet": "Practise 10 questions",
+  "practicePool": "{count} practice questions",
+  "@practicePool": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "practiceNow": "Practise this topic",
+  "readingTime": "About {minutes} minutes",
+  "@readingTime": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "cscaScore": "{score} / 100",
+  "@cscaScore": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      }
+    }
+  },
+  "estimatedScore": "Estimated CSCA score"
+}

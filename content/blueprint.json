@@ -1,0 +1,379 @@
+{
+ "sections": [
+  {
+   "key": "math",
+   "title": "Mathematics",
+   "group": "math",
+   "topics": [
+    {
+     "key": "sets",
+     "prefix": "ms",
+     "title": "Sets and Inequalities",
+     "test": 120,
+     "practice": 30,
+     "scope": "Sets: notation, subsets, union, intersection, complement, Venn diagrams; necessary and sufficient conditions, simple quantifiers; properties of inequalities; linear, quadratic, rational (fractional) and absolute-value inequalities; AM-GM for simple maxima/minima."
+    },
+    {
+     "key": "functions",
+     "prefix": "mf",
+     "title": "Functions, Exponents and Logarithms",
+     "test": 160,
+     "practice": 40,
+     "scope": "Function concept, domain, range, composition, inverse functions; monotonicity, odd/even, periodicity, graph transformations; linear and quadratic functions; power, exponential and logarithmic functions and their laws; solving exponential and log equations; piecewise functions; zeros of functions."
+    },
+    {
+     "key": "trig",
+     "prefix": "mt",
+     "title": "Trigonometry",
+     "test": 120,
+     "practice": 30,
+     "scope": "Radians, unit-circle definitions, special angle values, signs by quadrant; identities, induction (reduction) formulas, sum and difference, double angle; graphs of sin, cos, tan, y = A sin(ωx + φ), period, amplitude, phase; solving triangles with the sine and cosine rules, triangle area."
+    },
+    {
+     "key": "sequences",
+     "prefix": "mq",
+     "title": "Sequences",
+     "test": 100,
+     "practice": 25,
+     "scope": "General term, recursive definitions; arithmetic sequences (nth term, sum, mean); geometric sequences (nth term, sum, infinite sum with |r| < 1); mixed and telescoping sums."
+    },
+    {
+     "key": "calculus",
+     "prefix": "md",
+     "title": "Derivatives and Their Applications",
+     "test": 100,
+     "practice": 25,
+     "scope": "Definition and geometric meaning of the derivative; derivatives of basic functions; sum, product, quotient and simple chain rules; tangent lines; increasing/decreasing intervals, extrema, maximum and minimum on an interval; simple optimisation."
+    },
+    {
+     "key": "analytic",
+     "prefix": "ma",
+     "title": "Analytic Geometry: Lines, Circles and Conics",
+     "test": 140,
+     "practice": 35,
+     "scope": "Slope, inclination, equations of lines, parallel and perpendicular, distance from a point to a line; circles (standard and general form, line-circle and circle-circle position); ellipse, hyperbola, parabola: standard equations, foci, eccentricity, asymptotes, directrix, simple chord problems."
+    },
+    {
+     "key": "vectors",
+     "prefix": "mv",
+     "title": "Vectors and Complex Numbers",
+     "test": 80,
+     "practice": 25,
+     "scope": "Plane vectors: addition, scalar multiples, coordinates, dot product, angle, length, parallel and perpendicular conditions; complex numbers: i, algebraic form, arithmetic, conjugate, modulus, the complex plane."
+    },
+    {
+     "key": "solid",
+     "prefix": "mg",
+     "title": "Solid Geometry",
+     "test": 60,
+     "practice": 20,
+     "scope": "Prisms, pyramids, cylinders, cones, spheres: surface area and volume; lines and planes in space (parallel, perpendicular); 3-D rectangular coordinates, distance between points, midpoints; simple angles in solids."
+    },
+    {
+     "key": "probability",
+     "prefix": "mp",
+     "title": "Probability and Statistics",
+     "test": 80,
+     "practice": 25,
+     "scope": "Counting basics (multiplication principle, simple permutations and combinations); classical probability, complementary and independent events; mean, median, mode, variance and standard deviation; reading frequency tables; normal distribution basics (symmetry, μ ± σ ideas)."
+    }
+   ]
+  },
+  {
+   "key": "physics",
+   "title": "Physics",
+   "group": "physics",
+   "topics": [
+    {
+     "key": "kinematics",
+     "prefix": "pk",
+     "title": "Kinematics",
+     "test": 120,
+     "practice": 25,
+     "scope": "Displacement, velocity, acceleration; uniform and uniformly accelerated motion equations; free fall, vertical throw; motion graphs (x-t, v-t); projectile motion; relative motion basics."
+    },
+    {
+     "key": "forces",
+     "prefix": "pn",
+     "title": "Forces and Newton's Laws",
+     "test": 120,
+     "practice": 25,
+     "scope": "Gravity, normal force, friction (static/kinetic), tension, springs (Hooke's law); force resolution and equilibrium; Newton's three laws; inclines, connected bodies, pulleys, apparent weight in lifts."
+    },
+    {
+     "key": "momentum",
+     "prefix": "pm",
+     "title": "Momentum and Impulse",
+     "test": 60,
+     "practice": 20,
+     "scope": "Momentum, impulse-momentum theorem, conservation of momentum, elastic and inelastic collisions, recoil, explosions."
+    },
+    {
+     "key": "energy",
+     "prefix": "pw",
+     "title": "Work, Energy and Power",
+     "test": 80,
+     "practice": 20,
+     "scope": "Work, power, kinetic energy, work-energy theorem, gravitational and elastic potential energy, conservation of mechanical energy, efficiency, energy with friction."
+    },
+    {
+     "key": "circular",
+     "prefix": "pg",
+     "title": "Circular Motion and Gravitation",
+     "test": 80,
+     "practice": 20,
+     "scope": "Angular velocity, period, centripetal acceleration and force; vertical circles, banked curves; Newton's law of gravitation, g at altitude, satellite orbits, orbital speed and period, Kepler's third law."
+    },
+    {
+     "key": "waves",
+     "prefix": "ps",
+     "title": "Oscillations and Waves",
+     "test": 60,
+     "practice": 20,
+     "scope": "Simple harmonic motion, spring and simple pendulum periods, energy in SHM; transverse and longitudinal waves, v = fλ, wave graphs, reflection, superposition, standing waves, sound, Doppler effect (qualitative)."
+    },
+    {
+     "key": "electrostatics",
+     "prefix": "pe",
+     "title": "Electrostatics",
+     "test": 80,
+     "practice": 20,
+     "scope": "Charge, Coulomb's law, electric field strength and field lines, potential and potential difference, work done on charges, capacitors (C = Q/U, parallel plate), motion of charges in uniform fields."
+    },
+    {
+     "key": "circuits",
+     "prefix": "pc",
+     "title": "DC Circuits",
+     "test": 80,
+     "practice": 20,
+     "scope": "Current, resistance, resistivity, Ohm's law, series and parallel, EMF and internal resistance, electrical power and energy, meters, simple circuit analysis."
+    },
+    {
+     "key": "magnetism",
+     "prefix": "pb",
+     "title": "Magnetic Fields",
+     "test": 60,
+     "practice": 20,
+     "scope": "Magnetic field and field lines, field of currents (right-hand rule), force on a current-carrying wire (F = BIL), Lorentz force, circular motion of charges in a magnetic field."
+    },
+    {
+     "key": "induction",
+     "prefix": "pi",
+     "title": "Electromagnetic Induction and AC",
+     "test": 60,
+     "practice": 20,
+     "scope": "Magnetic flux, Faraday's law, Lenz's law, motional EMF (E = BLv), self-induction basics, alternating current, rms values, ideal transformers."
+    },
+    {
+     "key": "thermal",
+     "prefix": "pt",
+     "title": "Thermal Physics",
+     "test": 60,
+     "practice": 20,
+     "scope": "Molecular kinetic theory, temperature and internal energy, ideal gas law and gas laws, specific heat and latent heat, first law of thermodynamics, second law (qualitative)."
+    },
+    {
+     "key": "optics",
+     "prefix": "po",
+     "title": "Optics",
+     "test": 60,
+     "practice": 20,
+     "scope": "Reflection, refraction, refractive index, Snell's law, total internal reflection and critical angle, lenses and mirrors (basic), dispersion; interference (double slit), diffraction, polarisation."
+    },
+    {
+     "key": "modern",
+     "prefix": "pq",
+     "title": "Modern Physics",
+     "test": 40,
+     "practice": 20,
+     "scope": "Photoelectric effect and photon energy, wave-particle duality, Bohr model and energy levels, spectra, nuclear structure, radioactivity (alpha, beta, gamma), half-life, nuclear equations, mass-energy, fission and fusion."
+    }
+   ]
+  },
+  {
+   "key": "chemistry",
+   "title": "Chemistry",
+   "group": "chemistry",
+   "topics": [
+    {
+     "key": "concepts",
+     "prefix": "cb",
+     "title": "Matter, Chemical Language and Equations",
+     "test": 80,
+     "practice": 25,
+     "scope": "Classification of matter (elements, compounds, mixtures, pure substances), physical vs chemical change, states of matter, formulas and valency, naming, balancing equations, reaction types, colloids."
+    },
+    {
+     "key": "mole",
+     "prefix": "cm",
+     "title": "The Mole and Calculations",
+     "test": 120,
+     "practice": 30,
+     "scope": "Relative atomic and molecular mass, the mole, Avogadro constant, molar mass, molar volume of gases, ideal gas equation, solution concentration (mol/L, mass fraction), dilution, reaction stoichiometry, limiting reagent, yield."
+    },
+    {
+     "key": "inorganic",
+     "prefix": "ci",
+     "title": "Inorganic Elements and Compounds",
+     "test": 140,
+     "practice": 35,
+     "scope": "Properties and reactions of Na, Mg, Al, Fe, Cu and their compounds; non-metals Cl, S, N, C, Si and their oxides and acids; common acids, bases and salts; amphoteric behaviour; everyday and environmental chemistry."
+    },
+    {
+     "key": "organic",
+     "prefix": "co",
+     "title": "Organic Chemistry",
+     "test": 120,
+     "practice": 30,
+     "scope": "Alkanes, alkenes, alkynes, benzene; functional groups (alcohols, aldehydes, carboxylic acids, esters); isomerism; naming simple compounds; substitution, addition, elimination, esterification, polymerisation; basic biomolecules (sugars, proteins, fats)."
+    },
+    {
+     "key": "redox",
+     "prefix": "cr",
+     "title": "Redox Reactions",
+     "test": 80,
+     "practice": 20,
+     "scope": "Oxidation states, oxidation and reduction, oxidising and reducing agents, electron transfer, balancing redox equations, galvanic cells and electrolysis basics."
+    },
+    {
+     "key": "ionic",
+     "prefix": "cn",
+     "title": "Ionic Reactions and Tests for Ions",
+     "test": 80,
+     "practice": 20,
+     "scope": "Electrolytes, ionic equations, conditions for ionic reactions, ion coexistence in solution, tests for common cations and anions (Cl⁻, SO₄²⁻, CO₃²⁻, NH₄⁺, Fe³⁺, Fe²⁺)."
+    },
+    {
+     "key": "atomic",
+     "prefix": "ca",
+     "title": "Atomic Structure and the Periodic Table",
+     "test": 80,
+     "practice": 25,
+     "scope": "Protons, neutrons, electrons, isotopes, electron configuration (first 20 elements and simple transition cases), periodic trends (radius, ionisation energy, electronegativity, metallic character), groups and periods."
+    },
+    {
+     "key": "bonding",
+     "prefix": "cd",
+     "title": "Chemical Bonding and Structure",
+     "test": 60,
+     "practice": 20,
+     "scope": "Ionic, covalent and metallic bonds, electron-dot structures, polarity, molecular shapes (VSEPR basics), intermolecular forces and hydrogen bonding, crystal types and their properties."
+    },
+    {
+     "key": "equilibrium",
+     "prefix": "ce",
+     "title": "Reaction Rates and Equilibrium",
+     "test": 80,
+     "practice": 25,
+     "scope": "Factors affecting rate, activation energy and catalysts, reversible reactions, dynamic equilibrium, Le Chatelier's principle, equilibrium constant expressions, energy changes (exothermic/endothermic, ΔH)."
+    },
+    {
+     "key": "solutions",
+     "prefix": "cp",
+     "title": "Acids, Bases and Electrolyte Solutions",
+     "test": 60,
+     "practice": 20,
+     "scope": "Acid-base theories, strong and weak electrolytes, pH and its calculation for simple cases, neutralisation, hydrolysis of salts, buffers (qualitative), titration basics."
+    },
+    {
+     "key": "lab",
+     "prefix": "cl",
+     "title": "Laboratory Work and Industrial Chemistry",
+     "test": 60,
+     "practice": 20,
+     "scope": "Lab safety, common apparatus, preparing and collecting gases (O₂, H₂, CO₂, NH₃, Cl₂), separation and purification (filtration, distillation, crystallisation, extraction), identifying substances, industrial processes (Haber process, contact process, metal extraction)."
+    }
+   ]
+  }
+ ],
+ "modes": {
+  "math": {
+   "title": "Maths",
+   "subtitle": "48 questions · 60 minutes · no calculator",
+   "minutes": 60,
+   "questions": 48,
+   "streams": {
+    "mock": {
+     "title": "Mathematics Mock",
+     "sections": [
+      {
+       "section": "math",
+       "quota": {
+        "sets": 6,
+        "functions": 8,
+        "trig": 6,
+        "sequences": 5,
+        "calculus": 5,
+        "analytic": 7,
+        "vectors": 4,
+        "solid": 3,
+        "probability": 4
+       }
+      }
+     ]
+    }
+   }
+  },
+  "physics": {
+   "title": "Physics",
+   "subtitle": "48 questions · 60 minutes · no calculator",
+   "minutes": 60,
+   "questions": 48,
+   "streams": {
+    "mock": {
+     "title": "Physics Mock",
+     "sections": [
+      {
+       "section": "physics",
+       "quota": {
+        "kinematics": 6,
+        "forces": 6,
+        "momentum": 3,
+        "energy": 4,
+        "circular": 4,
+        "waves": 3,
+        "electrostatics": 4,
+        "circuits": 4,
+        "magnetism": 3,
+        "induction": 3,
+        "thermal": 3,
+        "optics": 3,
+        "modern": 2
+       }
+      }
+     ]
+    }
+   }
+  },
+  "chemistry": {
+   "title": "Chemistry",
+   "subtitle": "48 questions · 60 minutes · no calculator",
+   "minutes": 60,
+   "questions": 48,
+   "streams": {
+    "mock": {
+     "title": "Chemistry Mock",
+     "sections": [
+      {
+       "section": "chemistry",
+       "quota": {
+        "concepts": 4,
+        "mole": 6,
+        "inorganic": 7,
+        "organic": 6,
+        "redox": 4,
+        "ionic": 4,
+        "atomic": 4,
+        "bonding": 3,
+        "equilibrium": 4,
+        "solutions": 3,
+        "lab": 3
+       }
+      }
+     ]
+    }
+   }
+  }
+ },
+ "papers": 20
+}
