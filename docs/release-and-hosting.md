@@ -19,6 +19,10 @@
 - Privacy & messaging: European regulations messages are per app, not account-wide. "Prep Simulator for CSCA consent" (this app only, privacy URL https://csca.homilabs.org/privacy.html, "Do not consent" on for all countries) published 4 Nov 2026 for the app's Google UMP request.
 
 ## Play Console
+- HomiLabs organization account (developer id 9161588402757830740), app id 4976286891063307608. Created 6 Nov 2026.
+- Filled in 6 Nov 2026: all App content declarations, store settings, en-US listing (icon, feature graphic, 7 screenshots from `tool/screenshots/store_screenshots_test.dart`), production release 1.0.0 (1) to 177 countries plus rest of world. Content rating: ESRB Everyone, PEGI 3, IARC 3+.
+- Status 6 Nov 2026: 11 changes ready, **not yet submitted for review** (Publishing overview → "Submit 11 changes for review"). Managed publishing is off, so it goes live as soon as review passes.
+
 | Item | Value |
 |---|---|
 | App icon 512×512 | `store-assets/icon-512.png` |
@@ -70,4 +74,4 @@ Prep Simulator for CSCA is independent practice material by HomiLabs. It is not 
 ## Before production (open items)
 - Homi reviews the guide (dated facts), a sample of questions per subject and `docs/review-flags.md`.
 - Trademark: "CSCA" is used descriptively, with the not-affiliated notice in the About screen, listing and website.
-- Phone screenshots (2-8) for the listing.
+- ~~Phone screenshots (2-8) for the listing.~~ Done 6 Nov 2026 (`store-assets/screenshots/`).
