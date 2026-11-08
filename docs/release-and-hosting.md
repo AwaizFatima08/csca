@@ -11,11 +11,11 @@
 - Hostinger: subdomain `csca.homilabs.org` (folder `public_html/csca`, created 4 Nov 2026). The folder is a git checkout of this repo's `deploy` branch (cloned over SSH, as for gre/nts; hPanel's one Git slot for homilabs.org belongs to the games site).
 - Change `website/`, commit, then `bash scripts/publish-site.sh` (pushes `deploy`, then pulls it on the server over SSH). Flush the CDN cache in hPanel if pages look stale.
 - Pages: landing, `/privacy.html`, `/terms.html`, `/app-ads.txt`.
-- Play link on the landing page since 6 Nov 2026. Still to do: add the app to homilabs.org.
+- Play link on the landing page since 6 Nov 2026. Listed on homilabs.org (Completed projects, Learning) since 9 Nov 2026.
 
 ## AdMob (account homilabs.smc@gmail.com)
 - Created 4 Nov 2026: app "Prep Simulator for CSCA", App ID `ca-app-pub-2087846699268567~6011252769`; units banner `csca_home_banner` and interstitial `csca_results_interstitial` (ids in `config/admob.json`). Debug builds use Google test units.
-- Play store linked to the AdMob app 6 Nov 2026 (search by the full listing URL; the package name alone found nothing on launch day). app-ads.txt verification was still pending that day although the file is correct on homilabs.org and csca.homilabs.org: AdMob re-crawls on its own; if it still says "Limited ad serving" after a few days, use Apps → this app → app-ads.txt → Check for updates.
+- Play store linked to the AdMob app 6 Nov 2026 (search by the full listing URL; the package name alone found nothing on launch day). AdMob re-crawled app-ads.txt on its own: on 9 Nov 2026 the app was Verified and Ready, serving ads, with no Policy center issues.
 - Privacy & messaging: European regulations messages are per app, not account-wide. "Prep Simulator for CSCA consent" (this app only, privacy URL https://csca.homilabs.org/privacy.html, "Do not consent" on for all countries) published 4 Nov 2026 for the app's Google UMP request.
 
 ## Play Console
