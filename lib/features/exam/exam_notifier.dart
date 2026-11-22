@@ -6,6 +6,7 @@ import 'package:csca_prep/content/content_repository.dart';
 import 'package:csca_prep/content/models.dart';
 import 'package:csca_prep/core/clock.dart';
 import 'package:csca_prep/core/result.dart';
+import 'package:csca_prep/core/review_prompt.dart';
 import 'package:csca_prep/core/scoring.dart';
 import 'package:csca_prep/settings/settings_repository.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -134,6 +135,7 @@ class ExamNotifier extends AsyncNotifier<ExamState> {
     await _persist(next);
     await ref.read(practiceTallyProvider.notifier).recordAll(score.topics);
     state = AsyncData(current.withAttempt(next));
+    unawaited(ref.read(reviewPrompterProvider).mockFinished());
   }
 }
 

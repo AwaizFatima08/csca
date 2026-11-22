@@ -269,7 +269,13 @@ class AppLocalizationsEn extends AppLocalizations {
   String get contact => 'Contact: homilabs.smc@gmail.com';
 
   @override
-  String get version => 'Version 1.0.0';
+  String get rateApp => 'Rate this app on Google Play';
+
+  @override
+  String get moreFromHomiLabs => 'More from HomiLabs';
+
+  @override
+  String get version => 'Version 1.0.1';
 
   @override
   String get reviewTitle => 'Review answers';
